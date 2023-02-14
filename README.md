@@ -1,5 +1,6 @@
 
-<h1 align="center"><b>Olá, eu sou o Gabriel 🙋</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Olá, eu sou o Gabriel ![image](https://user-images.githubusercontent.com/83848265/218819028-e50ce7f3-7576-4aa0-a00b-9330e52422e2.png)
+</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Apaixonado+por+Python..&hearts;++;Focado+no+Back-end,;Estudante+de+ADS,;Newbie,;Aprendizagem+diária,;Adoro+aprender+coisas+novas..<3"></a>

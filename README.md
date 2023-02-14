@@ -17,9 +17,9 @@
 
 <br>
 
-- Um desenvolvedor back-end iniciante
-- Atualmente cursando Analise e Desenvolvimento de Sistemas na Impacta
-- Meu [LinkedIn](https://www.linkedin.com/in/gabriel-de-carvalho-26456b245/)
+- Um desenvolvedor back-end iniciante.
+- Atualmente cursando Analise e Desenvolvimento de Sistemas na Impacta.
+- Meu [LinkedIn](https://www.linkedin.com/in/gabriel-de-carvalho-26456b245/).
 - Estou aberto para um estagio ou uma nova oportunidade de trabalho.
 
 <br>
